@@ -1,0 +1,10 @@
+C:\Users\N\RiderProjects\bankomat\bankomat\bin\Debug\netcoreapp2.0\bankomat.deps.json
+C:\Users\N\RiderProjects\bankomat\bankomat\bin\Debug\netcoreapp2.0\bankomat.runtimeconfig.json
+C:\Users\N\RiderProjects\bankomat\bankomat\bin\Debug\netcoreapp2.0\bankomat.runtimeconfig.dev.json
+C:\Users\N\RiderProjects\bankomat\bankomat\bin\Debug\netcoreapp2.0\bankomat.dll
+C:\Users\N\RiderProjects\bankomat\bankomat\bin\Debug\netcoreapp2.0\bankomat.pdb
+C:\Users\N\RiderProjects\bankomat\bankomat\obj\Debug\netcoreapp2.0\bankomat.csproj.CoreCompileInputs.cache
+C:\Users\N\RiderProjects\bankomat\bankomat\obj\Debug\netcoreapp2.0\bankomat.AssemblyInfoInputs.cache
+C:\Users\N\RiderProjects\bankomat\bankomat\obj\Debug\netcoreapp2.0\bankomat.AssemblyInfo.cs
+C:\Users\N\RiderProjects\bankomat\bankomat\obj\Debug\netcoreapp2.0\bankomat.dll
+C:\Users\N\RiderProjects\bankomat\bankomat\obj\Debug\netcoreapp2.0\bankomat.pdb
